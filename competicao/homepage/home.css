@@ -28,9 +28,23 @@ body {
 }
 
 .sidemenu {
-    width: 70px; 
-    height: 70px; 
+    width: 50px; 
+    height: 50px; 
     position: fixed; 
     left: 3%; 
-    top: 2%;
+    top: 3%;
+}
+
+.mainwp {
+    width: 80%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.arma {
+    width: 240px;
+    height: 190px;
+    border-radius: 4px;
 }
