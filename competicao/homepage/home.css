@@ -1,0 +1,36 @@
+body {
+    color: white;
+    font-family: "Roboto";
+    background-color: #00000080;
+}
+
+.titulo {
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: floralwhite;
+    width: 100%;
+    height: fit-content;
+    border-bottom: 2px white;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    -webkit-text-stroke: 2px red; 
+}
+  
+.logo {
+    width: 80px;
+    height: 80px; 
+    z-index: -1; 
+    position: fixed; 
+    top: 1%; 
+    right: 47.5%;
+}
+
+.sidemenu {
+    width: 70px; 
+    height: 70px; 
+    position: fixed; 
+    left: 3%; 
+    top: 2%;
+}
